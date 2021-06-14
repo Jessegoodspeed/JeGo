@@ -1,1 +1,1 @@
-Sitemap: https://jessegoodspeed.github.io/breadcrumbs/sitemap.xml
+Sitemap: https://jessegoodspeed.github.io/JeGo/sitemap.xml
